@@ -1,6 +1,9 @@
-# Common Fucking Sense Code of Conduct
+# Code of Conduct
 
-1. Be honest
-2. Assume good faith
-3. Don't be a dick to people
-4. Use some common fucking sense
+The common fucking sense code of conduct v1.0
+
+1. Assume good faith
+2. Be less of a dick
+3. Wind your neck in
+4. Be honest
+5. Use some fucking common sense
